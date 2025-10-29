@@ -30,6 +30,14 @@
 
 ## 📂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
 
+### 🦺 SafetySnap - AI-Powered PPE Detection System
+- Designed and Implemented an End-to-End Workplace Safety Monitoring System
+- Engineered Real-time Computer Vision Pipeline with YOLOv11 and YOLOv8 Object Detection
+- Implemented Multi-Source Video Streaming (WebSocket, RTSP, OpenCV)
+- Built Full-Stack Application with RESTful API and Advanced Analytics Dashboard
+- Python, Django REST Framework, PostgreSQL, React, TypeScript, Ultralytics YOLO, OpenCV, JWT Authentication
+- 🔗 [View Project](https://github.com/ranasaurabh191/SafetySnap)
+
 ### 🕵️ Predictive-Maintenance-PdM-Pipeline
 - Designed and Implemented an End-to-End PdM System
 - Engineered Data Ingestion and Preprocessing
