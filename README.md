@@ -65,15 +65,6 @@
 
 ---
 
-## 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranasaurabh191&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranasaurabh191&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranasaurabh191&theme=radical)
-
----
-
 ## 🌍 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓜𝓮
 - [LinkedIn](https://www.linkedin.com/in/-rana-saurabh/)  
 - [Portfolio Website](https://portfoliosrb-800e0.firebaseapp.com/)  
