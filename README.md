@@ -1,5 +1,5 @@
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=50&size=27&pause=1&color=efed64&center=true&vCenter=true&width=900&lines=𝓗𝓲%2C+𝓘’𝓶+𝓢𝓪𝓾𝓻𝓪𝓫𝓱+𝓡𝓪𝓷𝓪+👋;𝓓𝓪𝓽𝓪+𝓢𝓬𝓲𝓮𝓷𝓬𝓮+%7C+𝓜𝓪𝓬𝓱𝓲𝓷𝓮+𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰+%7C+𝓐𝓘+𝓔𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽;𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰+𝓘𝓷𝓽𝓮𝓵𝓵𝓲𝓰𝓮𝓷𝓽+𝓢𝔂𝓼𝓽𝓮𝓶𝓼+𝔀𝓲𝓽𝓱+𝓐𝓘+%26+𝓜𝓛)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Saurabh+Rana+👋;Data+Science+%7C+Machine+Learning+%7C+AI;Building+Intelligent+Systems+with+AI+%26+ML)](https://git.io/typing-svg)
 
 ---
 
