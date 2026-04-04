@@ -1,5 +1,5 @@
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=2000&pause=100&color=00acff&&vCenter=true&width=1000&lines=𝓗𝓲%2C+𝓘’𝓶+𝓢𝓪𝓾𝓻𝓪𝓫𝓱+𝓡𝓪𝓷𝓪+👋;𝓕𝓾𝓵𝓵𝓢𝓽𝓪𝓬𝓴 + +𝓓𝓸𝓽𝓝𝓔𝓣;𝓐𝓘+%7C+𝓜𝓛+%7C+𝓓𝓪𝓽𝓪+𝓢𝓬𝓲𝓮𝓷𝓬𝓮;𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰+𝓕𝓾𝓽𝓾𝓻𝓮+𝔀𝓲𝓽𝓱+𝓐𝓘)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=2000&pause=100&color=00acff&&vCenter=true&width=1000&lines=𝓗𝓲%2C+𝓘’𝓶+𝓢𝓪𝓾𝓻𝓪𝓫𝓱+𝓡𝓪𝓷𝓪+👋;𝓕𝓾𝓵𝓵𝓢𝓽𝓪𝓬𝓴 +𝓓𝓸𝓽𝓝𝓔𝓣;𝓐𝓘+%7C+𝓜𝓛+%7C+𝓓𝓪𝓽𝓪+𝓢𝓬𝓲𝓮𝓷𝓬𝓮;𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰+𝓕𝓾𝓽𝓾𝓻𝓮+𝔀𝓲𝓽𝓱+𝓐𝓘)](https://git.io/typing-svg)
 ---
 
 ## 🌟 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
