@@ -1,5 +1,5 @@
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&color=36BCF7&&vCenter=true&width=1100&lines=Hi%2C+I%27m+Saurabh+Rana+%F0%9F%91%8B;Full-Stack+.NET+Developer+%26+Backend+Engineer;Building+Event-Driven+Microservices;C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;MassTransit+%7C+RabbitMQ+%7C+REST+APIs;Docker+%7C+Terraform+%7C+Ansible+%7C+Puppet;Exploring+AI%2C+ML+%26+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=2000&color=36BCF7&&vCenter=true&width=1100&lines=Hi%2C+I%27m+Saurabh+Rana+%F0%9F%91%8B;Full-Stack+.NET+Developer+%26+Backend+Engineer;Building+Event-Driven+Microservices;C%23+%7C+ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;MassTransit+%7C+RabbitMQ+%7C+REST+APIs;Docker+%7C+Terraform+%7C+Ansible+%7C+Puppet;Exploring+AI%2C+ML+%26+Data+Science)](https://git.io/typing-svg)
 ---
 
 ## 🌟 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
