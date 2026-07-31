@@ -1,5 +1,5 @@
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=2000&pause=100&color=00acff&&vCenter=true&width=1000&lines=𝓗𝓲%2C+𝓘’𝓶+𝓢𝓪𝓾𝓻𝓪𝓫𝓱+𝓡𝓪𝓷𝓪+👋;𝓕𝓾𝓵𝓵𝓢𝓽𝓪𝓬𝓴+𝓓𝓸𝓽𝓝𝓔𝓣;𝓐𝓘+%7C+𝓜𝓛+%7C+𝓓𝓪𝓽𝓪+𝓢𝓬𝓲𝓮𝓷𝓬𝓮;𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰+𝓕𝓾𝓽𝓾𝓻𝓮+𝔀𝓲𝓽𝓱+𝓐𝓘)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=2000&pause=10&color=00acff&&vCenter=true&width=1000&lines=𝓗𝓲%2C+𝓘’𝓶+𝓢𝓪𝓾𝓻𝓪𝓫𝓱+𝓡𝓪𝓷𝓪+👋;𝓕𝓾𝓵𝓵𝓢𝓽𝓪𝓬𝓴+𝓓𝓸𝓽𝓝𝓔𝓣;𝓐𝓘+%7C+𝓜𝓛+%7C+𝓓𝓪𝓽𝓪+𝓢𝓬𝓲𝓮𝓷𝓬𝓮;𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰+𝓕𝓾𝓽𝓾𝓻𝓮+𝔀𝓲𝓽𝓱+𝓐𝓘)](https://git.io/typing-svg)
 ---
 
 ## 🌟 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
@@ -50,24 +50,24 @@
 - Implemented Custom Monitoring Solution
 - Python **NumPy, Pandas, PyTorch, Scikit-learn, FastAPI, Streamlit, Matplotlib**.
 - 🔗 [View Project](https://github.com/ranasaurabh191/Predictive-Maintenance-PdM-Pipeline)
-
-### ✨ Ai Agents  
-- 🔗 [View Project](https://github.com/ranasaurabh191/Ai-Agents)
+  
+### 🛒 E-Commerce Product Recommendation System  
+- Personalized product suggestions using ML models.  
+- Tools: **Python, scikit-learn, Pandas**
+- 🔗 [View Project](https://github.com/ranasaurabh191/E-Commerce-Product-Recommendation-System)
 
 ### 🕵️ Fraud Detection System  
 - Built with **Python, TensorFlow, scikit-learn, Pandas, Flask, Docker**  
 - Detects fraudulent financial transactions with high accuracy.
 - 🔗 [View Project](https://github.com/ranasaurabh191/Fraud-Detection-AI-ML)
 
-### 🛒 E-Commerce Product Recommendation System  
-- Personalized product suggestions using ML models.  
-- Tools: **Python, scikit-learn, Pandas**
-- 🔗 [View Project](https://github.com/ranasaurabh191/E-Commerce-Product-Recommendation-System)
-
 ### 📰 Fake News Detection  
 - ML & NLP based system to identify misinformation.  
 - Tools: **Python, scikit-learn, Pandas, Flask, Matplotlib, Seaborn**
 - 🔗 [View Project](https://github.com/ranasaurabh191/Fake-News-Detection)
+
+### ✨ Ai Agents  
+- 🔗 [View Project](https://github.com/ranasaurabh191/Ai-Agents)
 
 ---
 
