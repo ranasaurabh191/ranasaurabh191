@@ -28,7 +28,14 @@
 ---
 
 ## 📂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
-
+### 🛩️ SmartShip - Microservices-Based Logistics Management System
+- Delivered a Full-Stack Solution Featuring RESTful APIs, Real-Time Shipment Tracking, and an Administrative Dashboard
+- Distributed Microservices Architecture with Event-Driven Communication
+- Multi-Service Coordination (Order, Payment, Shipment, Inventory, Notification)
+- Distributed Event-Driven Microservices Ecosystem
+- C# / ASP.NET Core, React, TypeScript, PostgreSQL, Entity Framework Core, RabbitMQ / MassTransit, Docker, JWT Authentication, Razorpay, Saga Pattern, Unit of Work & Repository Patterns
+- 🔗 [View Project](https://github.com/ranasaurabh191/SmartShip-Logistics-Management-System)
+  
 ### 🦺 SafetySnap - AI-Powered PPE Detection System
 - Designed and Implemented an End-to-End Workplace Safety Monitoring System
 - Engineered Real-time Computer Vision Pipeline with YOLOv11 and YOLOv8 Object Detection
