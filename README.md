@@ -3,12 +3,15 @@
 ---
 
 ## 🌟 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
-- 🎓 Final-year **B.Tech student** specializing in Artificial Intelligence & Machine Learning 
-- 🔭 Currently working on: **Artificial Intelligence, Machine Learning, Deep Learning and Data Science**  
-- 🌱 Exploring: **Deep Learning, NLP, CI/CD in ML projects**  
-- 💡 Interested in: **AI-powered applications, Explainable AI, Real-time Recommendation Systems**  
-- 💬 Ask me about: **Python, ML, TensorFlow, Data Science projects**  
-- 🎯 Goal: To create impactful AI systems that inspire innovation  
+
+* 🎓 **B.Tech Graduate (2026)** in Computer Science & Engineering
+* 💼 Working as a **.NET Full Stack Developer**, building scalable web applications using **ASP.NET Core, C#, SQL Server, and React**
+* 🔭 Currently working on: **.NET, ASP.NET Core Web API, Microservices, Entity Framework Core, and Full Stack Development**
+* 🌱 Continuously learning: **Cloud Technologies (Azure), System Design, CI/CD, Docker, and Kubernetes**
+* 💡 Interested in: **Scalable Software Architecture, Microservices, Cloud-Native Applications, and AI-powered Software Solutions**
+* 💬 Ask me about: **C#, .NET, ASP.NET Core, SQL Server, Entity Framework Core, React, REST APIs, and Git**
+* 🎯 Goal: To become a highly skilled Software Engineer by building reliable, scalable, and impactful enterprise applications while continuously expanding my expertise in modern technologies.
+
 
 ---
 
